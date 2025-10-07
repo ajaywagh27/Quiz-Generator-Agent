@@ -1,0 +1,8 @@
+# Secret files - Do not upload the API key
+.env
+
+# Python virtual environment folder
+venv/
+
+# Python cache files
+_pycache_/

@@ -1,0 +1,4 @@
+Flask
+flask-cors
+langchain-google-genai
+langchain-core
